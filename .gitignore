@@ -1,0 +1,4 @@
+node_modules
+*.LRV
+*.MP4
+data.json
